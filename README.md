@@ -1,9 +1,11 @@
 <!--
 **plasticneko/plasticneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### hi there 👋
+## hi there 👋
 
 i work in the fintech space, and on weekends sleep after i make myself blind from reading too long.
+
+---
 
 ### currently working with these (because why complicate things?)
 
