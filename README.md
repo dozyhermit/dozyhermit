@@ -3,7 +3,7 @@
 
 ## hi there 👋
 
-i work in the fintech space, and on weekends sleep after i make myself blind from reading too long.
+i work in the fintech space, and on weekends sleep and read.
 
 ---
 
