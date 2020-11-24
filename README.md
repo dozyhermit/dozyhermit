@@ -3,7 +3,7 @@
 
 ## hi there 👋
 
-i work in the fintech space, and on weekends sleep and read.
+i work in the fintech space, and sleep and read on weekends.
 
 ---
 
