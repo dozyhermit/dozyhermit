@@ -1,7 +1,7 @@
 <!--
-**plasticneko/plasticneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**dozyhermit/dozyhermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### hi there 👋
+### [socially appropriate greeting] 👋
 
 i work in the fintech space, and don't sleep more than necessary at all 😴
 
