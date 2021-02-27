@@ -1,7 +1,7 @@
 <!--
 **dozyhermit/dozyhermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### [socially appropriate greeting] 👋
+### haaallo 👋
 
 i work in the fintech space, and don't sleep more than necessary at all 😴
 
