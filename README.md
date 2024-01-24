@@ -3,7 +3,7 @@
 
 ### heeello 👋
 
-i'm a developer looking for new opportunities, and don't sleep more than necessary at all 😴
+i'm looking for new opportunities, and don't sleep more than necessary at all 😴
 
 ### currently working with these 
 
