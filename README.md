@@ -1,9 +1,9 @@
 <!--
 **dozyhermit/dozyhermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### heeello 👋
+### what even is a developer 👋
 
-i'm looking for new opportunities, and don't sleep more than necessary at all 😴
+i'm looking for new opportunities and sleep more than necessary, but it's no worries because i can balance the two 😴
 
 ### currently working with these 
 
