@@ -3,7 +3,7 @@
 
 ### what even is a developer 👋
 
-i'm looking for new opportunities and sleeping more than necessary, but it's no worries because i can balance the two 😴
+looking for new opportunities 😴
 
 ### currently working with these 
 
