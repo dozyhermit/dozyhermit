@@ -3,7 +3,7 @@
 
 ### What even is a developer 👋
 
-Looking for new opportunities that don't exist
+Looking for new opportunities
 
 ### Currently working with these 😍
 
